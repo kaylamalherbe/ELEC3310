@@ -15,4 +15,4 @@ Helpful Resources:
 
 [Visualizing Electricity and Magnetism at MIT](https://web.mit.edu/8.02t/www/802TEAL3D/teal_tour.htm)
 
-[List of Trig Identities](List of trigonometric identities)
+[List of Trig Identities](https://en.wikipedia.org/wiki/List_of_trigonometric_identities)
