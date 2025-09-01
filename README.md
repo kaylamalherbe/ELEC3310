@@ -1,4 +1,4 @@
-# ELEC3310
+# ELEC3310 - Energy Conversion and Utilisation  
 ELEC3310 Notes 2025 Sem 2
 See the wiki page for full notes on each section
 The topics include
