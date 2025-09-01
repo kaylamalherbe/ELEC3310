@@ -9,3 +9,10 @@ The topics include
 - Topic 5: Fundamentals of Rotating Machines
 - Topic 6: Induction Machines
 - Topic 7: Synchronous Machines
+
+
+Helpful Resources:
+
+[Visualizing Electricity and Magnetism at MIT](https://web.mit.edu/8.02t/www/802TEAL3D/teal_tour.htm)
+
+[List of Trig Identities](List of trigonometric identities)
